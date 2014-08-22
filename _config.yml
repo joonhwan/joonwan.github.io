@@ -28,28 +28,28 @@ kramdown:
 owner:
   name: Joonhwan Lee
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  bio: "Ex-Eletrochemist Programmer"
+  email: joonhwan.lee@gmail.com
+  disqus-shortname: joonhwan
+  twitter: joonhwan
+  facebook: joonhwan71
   google:
-    plus: #username
+    plus: joonhwan
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: joonhwan
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
+  linkedin: joonhwan71
+  instagram: # joonhwan
+  lastfm: # joonhwan
+  tumblr: # joonhwan
+  pinterest: joonhwan
+  foursquare: # joonhwan
+  steam: # joonhwan
+  dribbble: # joonhwan
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
