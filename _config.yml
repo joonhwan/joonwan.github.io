@@ -13,11 +13,14 @@
 
 # # Build settings
 # markdown: kramdown
+
 destination: ./_site
 lsi:         false
 port:        4000
 highligher:  true
-markdown:    rdiscount
+markdown:    kramdown
 permalink:   date
-rdiscount:
-  extensions: [smart]
+# title: Joonhwan's Personal Page
+# email: joonhwan.lee@gmail.com
+# twitter_username: joonhwan
+# github_username:  joonhwan
