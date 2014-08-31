@@ -1,5 +1,5 @@
 # Site wide configuration
-
+encoding: utf-8
 title:            1 Byte @ Mind
 locale:           en_US
 # url:              http://localhost:4000
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge # pygments
 sass:
   sass_dir: _sass
   style: compressed
