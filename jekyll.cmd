@@ -1,1 +1,1 @@
-docker run --rm -i -t -p 4000:4000 -v /prj/oss/mine/joonhwan.github.io/vender/bundle:/usr/local/bundle -v /prj/oss/mine/joonhwan.github.io:/srv/jekyll jekyll/jekyll:stable jekyll %*
+docker run --rm -i -t -p 4000:4000 -v /prj/oss/mine/joonhwan.github.io/vendor/bundle:/usr/local/bundle -v /prj/oss/mine/joonhwan.github.io:/srv/jekyll jekyll/jekyll:3.8 jekyll %*
