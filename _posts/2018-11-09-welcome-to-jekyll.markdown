@@ -2,7 +2,7 @@
 layout: post
 title:  "사이트 시작"
 date:   2018-11-09 01:41:47 -0600
-categories: jekyll update
+tags: life
 ---
 docker를 실로 오랜만(2년)에 다시 해보니, 감회가 새로워, 한동안 묵혀두었던 github page를 windows 7 컴에서 jekyll docker image로 다시 만들었음. 
 

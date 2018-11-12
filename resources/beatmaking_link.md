@@ -1,3 +1,9 @@
+---
+layout: page
+title: 음악관련 링크
+subtitle: 비트메이킹작업시 사용하는 유용한 사이트들.
+---
+
 # Youtube 내 재생목록
 
 [레퍼런스로 삼을만한 곡](https://www.youtube.com/watch?v=0qHGEgFucQU&list=PLE-_rQqJ5I27CyAnNTomMYCoEIH1nRTNB)
