@@ -1,0 +1,95 @@
+
+
+### Angular
+
+[we](https://github.com/angular-ui/ui-mask)
+[Self-hosting an Angular 2 website in a windows service](https://blog.sstorie.com/self-hosting-an-angular-2-website-in-a-windows-service/)
+[Enhancing AngularJS Logging using Decorators | The Solution Optimist](http://solutionoptimist.com/2013/10/07/enhance-angularjs-logging-using-decorators/)
+[AngularJS, delay mock responses from $httpBackend | Endless Indirection](https://endlessindirection.wordpress.com/2013/05/18/angularjs-delay-response-from-httpbackend/)
+[How to Unit Test $http in AngularJS - Part 1 - ngMock Fundamentals](http://www.bradoncode.com/blog/2015/06/26/unit-testing-http-ngmock-fundamentals/)
+[angularjs - Can I access a form in the controller? - Stack Overflow](http://stackoverflow.com/questions/19568761/can-i-access-a-form-in-the-controller)
+[Angularjs ngRoute vs ui-router – Asik Blog](http://www.amasik.com/angularjs-ngroute-vs-ui-router/)
+[Angular JS–Part 13, Services - service()/provide()/factory() 차이](https://lostechies.com/gabrielschenker/2014/02/26/angular-jspart-13-services/)
+[AngularJS: "Controller as" or "$scope"?](http://codetunnel.io/angularjs-controller-as-or-scope/)
+[How to write custom AngularJS Directive using TypeScript? - Siddharth Pandey](http://www.siddharthpandey.net/how-to-write-custom-angularjs-directive-using-typescript/)
+[Angular JS Directive with Typescript | BrownDev](http://mbrowndev.com/angular-js-directive-with-typescript/)
+[Define AngularJS directive using TypeScript and $inject mechanism - Stack Overflow](http://stackoverflow.com/questions/26920055/define-angularjs-directive-using-typescript-and-inject-mechanism)
+[AngularJS Providers: Constant/Value/Service/Factory/Decorator/Provider](https://gist.github.com/demisx/9605099)
+[AngularJS의 서비스와 팩토리 - Haruair](http://haruair.com/blog/3223)
+[Building App w/ React+Flux](http://localhost:8080/)
+[Building App w/ React+Flux](http://localhost:8080/#/about?_k=6cj9ec)
+[Link Functions](http://localhost:8080/module_3/link_functions/index.html)
+
+### Hybrid
+
+[Use Local Files in CefSharp | The Chris Kent](https://thechriskent.com/2014/04/21/use-local-files-in-cefsharp/)
+
+
+## Tool_Hosting
+
+[RawGit](http://rawgit.com/)
+[Build Simple Web UIs with the Nancy Framework -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2013/03/01/simple-web-uis-with-the-nancy-framework.aspx)
+[URI.js - URLs in Javascript](https://medialize.github.io/URI.js/)
+[Flowcheck.js - 자바스크립트 runtime type checker](http://gcanti.github.io/flowcheck/)
+[HTTP Status Codes](http://www.restapitutorial.com/httpstatuscodes.html)
+[webpack + font-awesome test](https://gist.github.com/Turbo87/e8e941e68308d3b40ef6#file-app-js-L3)
+[| HTML5 Canvas Rich UI JavaScript Library](http://www.zebkit.com/)
+[Controls.js - original JavaScript framework for desktop-like development of web and cross-platform apps](http://controlsjs.com/#)
+[The Ody Brothers: How to Use Bootstrap (CSS only) and Webpack](http://blog.theodybrothers.com/2015/07/how-to-use-bootstrap-css-only-and.html)
+[JSON Generator – Tool for generating random data](http://www.json-generator.com/)
+[JUI Framework: HTML5 기반의 UI 프레임워크이며, 수많은 컴포넌트와 SVG 차트 그리고 고성능 그리드를 제공합니다.](http://jui.io/)
+[SignalR JS Client · SignalR/SignalR Wiki](https://github.com/SignalR/SignalR/wiki/SignalR-JS-Client)
+[Custom Hub Name in SignalR - CodeProject](http://www.codeproject.com/Tips/877476/Custom-Hub-Name-in-SignalR)
+[Real-time system resource monitor with SignalR, MVC, Knockout and WebApi | Steves Coding Blog](http://stevescodingblog.co.uk/real-time-system-resource-monitor-with-signalr-mvc-knockout-and-webapi/)
+[asp.net web api - How do I get self-hosted WebApi to fetch linked content? - Stack Overflow](http://stackoverflow.com/questions/21541041/how-do-i-get-self-hosted-webapi-to-fetch-linked-content)
+[Strong typing for SignalR](http://blog.scottlogic.com/2014/08/08/signalr-typed.html)
+[ASP.NET Self Host Static File Server - CodeOpinion](http://codeopinion.com/asp-net-self-host-static-file-server/)
+[Top "Must Know" Frameworks for .NET web developers | Ugo Lattanzi's tech world](http://tostring.it/2014/06/30/top-must-know-frameworks-for-net-web-developers/)
+[biofractal/Nancy-SignalR-Canonical-Chat: A bare bones SignalR chat app using NancyFX and Coffeescript](https://github.com/biofractal/Nancy-SignalR-Canonical-Chat)
+[Fun with the Nancy Self Host! | Brendan Tompkins](http://codebetter.com/brendantompkins/2013/01/15/fun-with-the-nancy-self-host/)
+[javascript - How can I add Font Awesome to my Aurelia project using npm? - Stack Overflow](https://stackoverflow.com/questions/39271458/how-can-i-add-font-awesome-to-my-aurelia-project-using-npm)
+
+## WebPack
+
+[Webpack 101: An introduction to Webpack – Everything Technical (and more) @ Hootsuite](http://code.hootsuite.com/webpack-101/)
+[GitHub - martin-jung-hs/webpack-101](https://github.com/martin-jung-hs/webpack-101)
+[webpack/examples/multiple-commons-chunks at master · webpack/webpack](https://github.com/webpack/webpack/tree/master/examples/multiple-commons-chunks)
+[Loader를 지정할때 맨앞에 ! 를 붙이는 이유](https://github.com/webpack/webpack/issues/1747)
+[Webpack HTML plug-in in a Nutshell - Jonathan Petitcolas](http://www.jonathan-petitcolas.com/2016/01/23/webpack-html-plugin-in-a-nutshell.html)
+[pushState with webpack-dev-server - Jake Trent](http://jaketrent.com/post/pushstate-webpack-dev-server/)
+
+
+# 미분류
+
+[.NET Versioning and Multi-Targeting - .NET 4.5 is an in-place upgrade to .NET 4.0 - Scott Hanselman](http://www.hanselman.com/blog/NETVersioningAndMultiTargetingNET45IsAnInplaceUpgradeToNET40.aspx)
+[.NET 4.5 is an in-place replacement for .NET 4.0 - Rick Strahl's Web Log](http://weblog.west-wind.com/posts/2012/Mar/13/NET-45-is-an-inplace-replacement-for-NET-40)
+[.net - Are there any better ways to copy a native dll to the bin folder? - Stack Overflow](http://stackoverflow.com/questions/3863419/are-there-any-better-ways-to-copy-a-native-dll-to-the-bin-folder/33436918#33436918)
+[Recursively Copying Indirect Project Dependencies in MSBuild](http://www.paraesthesia.com/archive/2014/05/09/recursively-copying-indirect-project-dependencies-in-msbuild.aspx/)
+[Home Page - My ASP.NET Application](http://localhost:63562/)
+[Customising your build process with MSBuild - Visual Studio tutorial - developer Fusion](http://www.developerfusion.com/article/84411/customising-your-build-process-with-msbuild/)
+[Alex Yakunin's blog: Making MSBuild / Visual Studio to automatically copy all indirect dependencies to "bin" folder](http://blog.alexyakunin.com/2009/09/making-msbuild-visual-studio-to.html)
+[MSBuild Transforms](https://msdn.microsoft.com/en-us/library/ms171476.aspx)
+[MSBuild Well-known Item Metadata](https://msdn.microsoft.com/en-us/library/ms164313.aspx)
+[Multi targeting a single .Net project to build for different framework versions - Shazwazza](http://shazwazza.com/post/multi-targeting-a-single-net-project-to-build-for-different-framework-versions/)
+[c# - What is the purpose of the "Prefer 32-bit" setting in Visual Studio 2012 and how does it actually work? - Stack Overflow](http://stackoverflow.com/questions/12066638/what-is-the-purpose-of-the-prefer-32-bit-setting-in-visual-studio-2012-and-how)
+[.net - Performance of a C# application built on AnyCPU vs x64 platform on a 64 bit machine - Stack Overflow](http://stackoverflow.com/questions/11062028/performance-of-a-c-sharp-application-built-on-anycpu-vs-x64-platform-on-a-64-bit)
+[CSS 레이아웃을 배웁시다](http://ko.learnlayout.com/)
+[c# - Message pump in .NET Windows service - Stack Overflow](http://stackoverflow.com/questions/2443867/message-pump-in-net-windows-service)
+[Stored Procedures DO NOT increase performance - CodeProject](http://www.codeproject.com/Articles/414272/Stored-Procedures-DO-NOT-increase-performance)
+[Building an IoC container in 15 lines of code - Ayende @ Rahien](https://ayende.com/blog/2886/building-an-ioc-container-in-15-lines-of-code)
+[Refactoring to Aggregate Services](http://blog.ploeh.dk/2010/02/02/RefactoringtoAggregateServices/)
+[Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application (9 of 10) | The ASP.NET Site](http://www.asp.net/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
+[c# - Clever way to append 's' for plural form in .Net (syntactic sugar) - Stack Overflow](http://stackoverflow.com/questions/3875312/clever-way-to-append-s-for-plural-form-in-net-syntactic-sugar)
+[IoC Container Benchmark - Performance comparison - www.palmmedia.de](http://www.palmmedia.de/Blog/2011/8/30/ioc-container-benchmark-performance-comparison)
+[Hadsy.net - Compiling transformation: Invalid token 'this' in class, struct, or interface member declaration](http://hadsy.net/2011/05/17/CompilingTransformationInvalidTokenThisInClassStructOrInterfaceMemberDeclaration.aspx)
+[Hexo-node blog framework](https://hexo.io/)
+[What AnyCPU Really Means As Of .NET 4.5 and Visual Studio 11 - DZone IoT](https://dzone.com/articles/what-anycpu-really-means-net)
+[MarioZ/MadMilkman.Ini: MadMilkman.Ini is a .NET component which simplifies processing of INI files.](https://github.com/MarioZ/MadMilkman.Ini)
+[Asynchronous Programming with Qt - Table of Contents](http://www.kdab.com/~dfaure/conf/Malaga_AsyncProgramming/index.html)
+[ASUSTeK Computer Inc. -Support- Driver & Tools - H87-PLUS](https://www.asus.com/support/Download/1/45/1/2/HtRy2lwdrrUauPDb/45/)
+[lolp1/Process.NET: A C# class ibrary for interacting with processes.](https://github.com/lolp1/Process.NET)
+[Service Locator is an Anti-Pattern](http://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
+[Forcing Property Injection with Castle Windsor - CodeProject](http://www.codeproject.com/Tips/1037515/Forcing-Property-Injection-with-Castle-Windsor)
+[Better Git with PowerShell - You've Been Haacked](http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx/)
+[Build Simple Web UIs with the Nancy Framework -- Visual Studio Magazine](https://visualstudiomagazine.com/Articles/2013/03/01/Simple-Web-UIs-with-the-Nancy-Framework.aspx?Page=2)
+[Self-hosting an Angular 2 website in a windows service](https://blog.sstorie.com/self-hosting-an-angular-2-website-in-a-windows-service/)
