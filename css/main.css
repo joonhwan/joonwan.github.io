@@ -3,11 +3,12 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Nanum Gothic', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
