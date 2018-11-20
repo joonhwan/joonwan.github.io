@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 주인장 소개
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+안녕하세요. 저는 원래, 대학원 석사 졸업후 모 기업에서 휴대기기용 리튬이온배터리를 개발을 했습니다.
+그러다, 같은 연구실 사람들이 너무 많은 배터리측정 데이터를 일일이 수작업으로 EXCEL이나 SigmaPlot 같은 소프트웨어 상에서 
+정리하는 일들을 자동화해주면서 SW개발의 즐거움과 적성을 뒤늦게 깨닫고, SW개발직으로 옮겨 2001년부터 지금까지 쭈욱 이 일을 해오고 있습니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+현재는 반도체관련 SW시스템을 개발하는 일을 하고 있구요.. 취미는 비트메이킹입니당. 
 
-What else do you need?
+생각나는게 있으면 그냥 한번 끄적여 보려고 오랜동안 묶혀 두었던 github page를 다시 open했습니다. 
+주제는 따로 정한것은 없고, 일하다 놀다 생각나는 것들을 끄적여 볼 까 합니다. 
 
-### my history
+제가 SNS를 안하는 관계로, 혹 연락하실 일이 있다면, 아래 email 버튼 혹은 댓글로 연락주세요. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
