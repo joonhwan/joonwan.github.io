@@ -162,6 +162,7 @@ subtitle: SW개발시 관련팁/관심사항/이론/튜토리얼....
 # 가상화
 
 [Yes, you can "Docker" on Windows 7](https://stefanscherer.github.io/yes-you-can-docker-on-windows-7/)  
+[Docker Enterprise 버전 간략 정리](http://yongho1037.tistory.com/710)  
 [[SOLVED] Unable to query docker version: Get https://192.168.99.100:2376/v1.15/version: x509: certificate is valid for 192.168.99.102, not 192.168.99.100 · Issue #14 · sparkfabrik/sparkdock](https://github.com/sparkfabrik/sparkdock/issues/14)  
 [How to use a directory outside C:\Users with Docker Toolbox/Docker for Windows | Divio Help & Support](http://support.divio.com/local-development/docker/how-to-use-a-directory-outside-cusers-with-docker-toolboxdocker-for-windows)  
 [Docker를 기반으로 다양한 데이터베이스 환경 통합하기 – CHEQUER – Medium](https://medium.com/chequer/docker%EB%A5%BC-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%99%98%EA%B2%BD-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0-96aa68363775)  
