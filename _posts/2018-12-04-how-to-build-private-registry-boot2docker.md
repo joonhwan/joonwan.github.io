@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker Private Registry를 boot2docker상에서 운용"
+title:  "Docker Private Registry를 docker toolbox상에서 운용"
 date:   2018-12-04 16:43:01 -0600
 tags: docker dev registry virtualbox 
 ---
@@ -18,7 +18,7 @@ docker registry는 이미 dockerize되어서 여기저기에서 쓰이는 것 �
 docker-compose up
 ```
 
-명령어만 실행하면 된다. ........지만,  나는 windows7에서 boot2docker를 쓰고 있어서 volume 설정에 약간 문제가 있다(윽.)
+명령어만 실행하면 된다. ........지만,  나는 windows7에서 docker toolbox를 쓰고 있어서 volume 설정에 약간 문제가 있다(윽.)
 
 ## Volume 설정 손보기 
 
@@ -65,9 +65,9 @@ win7에서 docker toolbox로 설치된 docker-machine 환경은 실제로 아무
 
 ## Docker Registry의 HTTPS 비활성화
 
-Docker registry의 web api는 보안때문에 Default로 https로 접근할 수 밖에 없게 되어 있는것 같다. 이것 때문에, 그냥 실행하면 boot2docker의 경우 여러 곤란한 일이 생긴다(-,.-)
+Docker registry의 web api는 보안때문에 Default로 https로 접근할 수 밖에 없게 되어 있는것 같다. 이것 때문에, 그냥 실행하면 docker toolbox의 경우 여러 곤란한 일이 생긴다(-,.-)
 
-이문제를 해결하려면, (여기)[http://developmentalmadness.com/2016/03/09/docker-configure-insecure-registry-in-boot2docker/]에서와 같이 아예 제대로 https를 쓰도록 
+이문제를 해결하려면, (여기)[http://developmentalmadness.com/2016/03/09/docker-configure-insecure-registry-in-docker toolbox/]에서와 같이 아예 제대로 https를 쓰도록 
 하던지, 아니면, (여기)[https://github.com/docker/machine/issues/3433]에 기술된 데로 다음과 같은 내용의 파일을 docker host내 `/etc/docker/daemon.json`에
 저장한다.
 
