@@ -58,7 +58,7 @@ win7에서 docker toolbox로 설치된 docker-machine 환경은 실제로 아무
 
 운용할 docker registry를 다른 컴퓨터에서 접근할 수 있게 하려면, docker host가 운용되는 virtual box의 NAT 설정에서 포트포워딩을 해야 한다.
 
-![VirtualBox내 docker host인 'default'의 네트워크 설정변경](img/2018-12-04-virtualbox-설정화면.png){:class="img-responsive"}
+![VirtualBox내 docker host인 'default'의 네트워크 설정변경](/img/2018-12-04-virtualbox-설정화면.png){:class="img-responsive"}
 
 중요한것은 호스트IP와 게스트포트이다. 호스트IP는 virtualbox을 실행하는 컴퓨터의 ip 주소를 적어주고, 8080 과 5000포트 2개를 반드시 맵핑시켜놓는다.
 8080포트는 web ui용이고, 5000포트는 web api(web ui에서 접근한다)용이다. 
@@ -100,7 +100,7 @@ latest: digest: sha256:1a6fd470b9ce10849be79e99529a88371dff60c60aab424c077007f69
 
 `192.168.100.115:8080` 으로 접속하면 web ui를 볼 수 있다. 
 
-![web ui 화면](img\firefox_2018-12-05_11-28-19.png){:class="img-responsive"}
+![web ui 화면](/img/firefox_2018-12-05_11-28-19.png){:class="img-responsive"}
 
 
 ## 참고
